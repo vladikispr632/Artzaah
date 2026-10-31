@@ -8,7 +8,7 @@ local placeId = game.PlaceId
 
 -- ⚠️ СЮДА ВСТАВЬ ССЫЛКУ НА СВОЙ СКРИПТ (откуда он будет скачиваться после ТП)
 -- Например: "https://raw.githubusercontent.com/vladikispr632/Babft-script/refs/heads/main/sniper.lua"
-local scriptUrl = "https://raw.githubusercontent.com/vladikispr632/Artzaah/refs/heads/main/README.lua" 
+local scriptUrl = "https://raw.githubusercontent.com/vladikispr632/Artzaah/refs/heads/main/READE.lua" 
 
 -- ===== СПИСОК ЭТАПОВ =====
 local stages = {
